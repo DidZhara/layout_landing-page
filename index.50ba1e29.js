@@ -1,0 +1,2 @@
+var e=document.getElementById("hiddenNavbar"),s=document.getElementById("humberBtn"),t=document.getElementById("closeBtn");s.addEventListener("click",function(){e.classList.contains("is-closed")&&e.classList.remove("is-closed"),e.classList.add("is-active")}),t.addEventListener("click",function(){e.classList.remove("is-active"),e.classList.add("is-closed")});
+//# sourceMappingURL=index.50ba1e29.js.map
